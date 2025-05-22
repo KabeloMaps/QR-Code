@@ -4,7 +4,6 @@
 
 - [Overview]
 - [Screenshot]
-- [Links]
 - [My process]
 - [Built with]
 - [What I learned]
@@ -14,20 +13,18 @@
 
 ### Screenshot
 
-### Links
-
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+![alt text](image.png)
 
 ## My process
+
+I started with creating the component card as the parent and the contents inside as the child components such as the QR code and descriptions.
 
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
 
 ### What I learned
 
-### Continued development
+- Images are flexible for both desktop and mobile devices when width of 100% is used instead of px. This prevents them from being distorted and misaligned when the screen sizes change.
